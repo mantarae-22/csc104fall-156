@@ -9,6 +9,8 @@ body{
 h1{
     color:indigo;
     font-size: xx-large;
+    /* adding a small white shadow */
+    text-shadow: 0px 2px white;
 }
 
 h2{
