@@ -1,0 +1,16 @@
+/* These are the body styles. By default they will apply to the whole page unless you create a more specific style. */
+body{
+    background-color: rgb(8, 8, 92);
+    color: rgb(180, 181, 190);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* These styles will apply to the h1 tag */
+h1{
+    color:rgb(145, 154, 231);
+}
+
+/* These styles will apply to the paragraph tag */
+p{
+    font-size: x-large;
+}
